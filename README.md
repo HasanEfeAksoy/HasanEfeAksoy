@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently (actually always) learning C++ and Math.
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanEfeAksoy&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanEfeAksoy&theme=tokyonight)
 
 
 <!--
