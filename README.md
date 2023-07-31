@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently (actually always) learning C++ and Math.
+- 🌱 I’m currently (always) learning C++ and Math.
 
 <!-- <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanEfeAksoy"> -->
 <!--
