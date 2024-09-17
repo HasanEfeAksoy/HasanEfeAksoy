@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m always learning C++ and Math.
-- 📚 I study Electronics and Communications Engineering at YTU.
+- 📚 I study Electronics and Communications Engineering at Yıldız Technical University.
 
 C++ ➕ |  Javascript 🇯
 
