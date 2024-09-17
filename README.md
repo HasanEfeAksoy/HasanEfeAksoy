@@ -2,7 +2,6 @@
 - 🌱 I’m always learning C++ and Math.
 - 📚 I study Electronics and Communications Engineering at YTU.
 
-:regional_indicator_c: 
 C++ ➕ |  Javascript 🇯
 
 <!-- <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanEfeAksoy"> -->
