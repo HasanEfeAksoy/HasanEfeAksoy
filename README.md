@@ -2,6 +2,8 @@
 - 🌱 I’m always learning C++ and Math.
 - 📚 I study Electronics and Communications Engineering at YTU.
 
+C++ ➕ |  Javascript 🇯
+
 <!-- <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanEfeAksoy"> -->
 <!--
 **HasanEfeAksoy/HasanEfeAksoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
