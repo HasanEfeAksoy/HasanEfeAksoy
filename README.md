@@ -1,20 +1,14 @@
-### Hi there 👋
-- 🌱 I’m always learning C++ and Math.
-- 📚 I study Electronics and Communications Engineering at Yıldız Technical University.
 
+# Hi there, I'm Hasan Efe 👋
 
-<!-- <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanEfeAksoy"> -->
-<!--
-**HasanEfeAksoy/HasanEfeAksoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Education
+* **Electronics and Communications Engineering** at Yıldız Technical University
 
-Here are some ideas to get you started:
+### 🚀 :>
+* 🌱 Focusing on **C++** and **Math** right now and always.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
